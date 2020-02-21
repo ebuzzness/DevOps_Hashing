@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="BashSupport" />
+    <plugin id="com.intellij" />
+    <plugin id="com.jetbrains.sh" />
+    <plugin id="net.seesharpsoft.intellij.plugins.csv" />
+    <plugin id="org.intellij.intelliLang" />
+  </component>
+</project>
